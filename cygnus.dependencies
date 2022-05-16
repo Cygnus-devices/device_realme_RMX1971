@@ -1,0 +1,44 @@
+[
+    {
+        "remote":"github",
+        "repository":   "Cygnus-devices/device_realme_sdm710-common",
+        "target_path":  "device/realme/sdm710-common",
+        "branch":       "caf-12"
+    },
+    {
+        "remote":"github",
+        "repository":   "Cygnus-devices/kernel_realme_sdm710",
+        "target_path":  "kernel/realme/sdm710",
+        "branch":       "caf-12"
+    },
+    {
+        "repository":   "MadhavSaladi/vendor_realme_sdm710-common",
+        "target_path":  "vendor/realme/sdm710-common",
+        "branch":       "twelve",
+        "remote":       "gitlab"
+    },
+    {
+        "repository":   "MadhavSaladi/vendor_realme_RMX1971",
+        "target_path":  "vendor/realme/RMX1971",
+        "branch":       "twelve",
+        "remote":       "gitlab"
+    },
+    {
+        "remote": "github",
+        "repository": "Cygnus-devices/hardware_qcom_media",
+        "target_path": "hardware/qcom/media",
+        "branch": "caf-12-sdm845"
+    },
+    {
+        "remote": "github",
+        "repository": "Cygnus-devices/hardware_qcom_display",
+        "target_path": "hardware/qcom/display",
+        "branch": "caf-12-sdm845"
+    },
+    {
+        "remote": "github",
+        "repository": "Cygnus-devices/vendor_qcom_opensource_audio-hal_primary-hal",
+        "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
+        "branch": "caf-12-sdm845"
+    }
+]
