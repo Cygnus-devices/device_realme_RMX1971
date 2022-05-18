@@ -6,6 +6,7 @@
 
 # Inherit some common Cygnus stuff.
 $(call inherit-product, vendor/cygnus/configs/common.mk)
+$(call inherit-product, device/qcom/common/common.mk)
 
 # Inherit from RMX1971 device.
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
